@@ -1,5 +1,5 @@
 # AlpineLinux with a hadoop
-FROM ps_base:0.0.1
+FROM ps_base:latest
 
 MAINTAINER liliuhai <liliuhai@peersafe.cn>
 
